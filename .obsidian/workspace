@@ -44,8 +44,12 @@
             "type": "leaf",
             "dimension": 36.79245283018868,
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -113,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "正则表达式/index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "正则表达式/index.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "正则表达式/index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,9 +183,10 @@
     "width": 318.5,
     "collapsed": true
   },
-  "active": "2fb737f1b22f8e41",
+  "active": "39afe3bdd4cbbaad",
   "lastOpenFiles": [
     "正则表达式/index.md",
+    "README.md",
     "正则表达式/表达式字符.md",
     "正则表达式/正则逻辑控制.md",
     "正则表达式/正则img.md",
@@ -189,7 +194,6 @@
     "DN/2022-07-21.md",
     "Templates/test.md",
     "2022-07-21.md",
-    "time/2022-07-21.md",
-    "Day Planners/Day Planner-20220720.md"
+    "time/2022-07-21.md"
   ]
 }
