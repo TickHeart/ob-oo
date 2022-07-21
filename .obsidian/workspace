@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "正则表达式/正则逻辑控制.md",
+                    "file": "正则表达式/index.md",
                     "mode": "source",
                     "source": true
                   }
@@ -28,12 +28,8 @@
                 "id": "2fb737f1b22f8e41",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "正则表达式/正则逻辑控制.md",
-                    "mode": "preview",
-                    "source": true
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
             ],
@@ -113,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "正则表达式/正则逻辑控制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "正则表达式/正则逻辑控制.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -161,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "正则表达式/正则逻辑控制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,17 +171,17 @@
     "width": 318.5,
     "collapsed": true
   },
-  "active": "2fb737f1b22f8e41",
+  "active": "39afe3bdd4cbbaad",
   "lastOpenFiles": [
-    "正则表达式/正则数量控制.md",
-    "正则表达式/正则逻辑控制.md",
-    "正则表达式/index.md",
-    "正则表达式/正则img.md",
-    "正则表达式/表达式字符.md",
-    "README.md",
-    "文章/pi  up.md",
-    "DN/2022-07-21.md",
     "Templates/test.md",
-    "2022-07-21.md"
+    "Templates/te.md",
+    "README.md",
+    "DN/2022-07-21.md",
+    "文章/pi  up.md",
+    "正则表达式/正则逻辑控制.md",
+    "正则表达式/正则数量控制.md",
+    "正则表达式/表达式字符.md",
+    "正则表达式/正则img.md",
+    "正则表达式/index.md"
   ]
 }
