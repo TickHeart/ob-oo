@@ -1,5 +1,8 @@
 {
   "theme": "obsidian",
   "cssTheme": "Minimal",
-  "translucency": false
+  "translucency": false,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "baseFontSize": 18
 }

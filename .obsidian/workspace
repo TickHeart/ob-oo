@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "正则表达式/index.md",
+                    "file": "文章/埋点性能监控/性能监控.md",
                     "mode": "source",
                     "source": true
                   }
@@ -28,8 +28,12 @@
                 "id": "2fb737f1b22f8e41",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "文章/埋点性能监控/性能监控.md",
+                    "mode": "preview",
+                    "source": true
+                  }
                 }
               }
             ],
@@ -109,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "文章/埋点性能监控/性能监控.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "文章/埋点性能监控/性能监控.md"
+              }
             }
           }
         ],
@@ -154,6 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "文章/埋点性能监控/性能监控.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,17 +179,17 @@
     "width": 318.5,
     "collapsed": true
   },
-  "active": "39afe3bdd4cbbaad",
+  "active": "2fb737f1b22f8e41",
   "lastOpenFiles": [
-    "Templates/test.md",
-    "Templates/te.md",
-    "README.md",
-    "DN/2022-07-21.md",
+    "正则表达式/index.md",
+    "文章/埋点性能监控/性能监控.md",
     "文章/pi  up.md",
-    "正则表达式/正则逻辑控制.md",
-    "正则表达式/正则数量控制.md",
-    "正则表达式/表达式字符.md",
+    "储物箱/Pasted image 20220720214808.png",
     "正则表达式/正则img.md",
-    "正则表达式/index.md"
+    "正则表达式/正则数量控制.md",
+    "正则表达式/正则逻辑控制.md",
+    "Templates/te.md",
+    "正则表达式/表达式字符.md",
+    "vue/这是第一篇文章.md"
   ]
 }

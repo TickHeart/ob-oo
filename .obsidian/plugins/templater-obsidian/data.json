@@ -19,7 +19,7 @@
       "template": ""
     }
   ],
-  "syntax_highlighting": true,
+  "syntax_highlighting": false,
   "enabled_templates_hotkeys": [],
   "startup_templates": [
     "Templates/te.md"
