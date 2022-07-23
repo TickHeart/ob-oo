@@ -4,5 +4,6 @@
   "spellcheck": true,
   "showLineNumber": true,
   "newFileLocation": "root",
-  "attachmentFolderPath": "储物箱"
+  "attachmentFolderPath": "储物箱",
+  "alwaysUpdateLinks": true
 }
