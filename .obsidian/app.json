@@ -1,10 +1,11 @@
 {
   "livePreview": false,
-  "vimMode": false,
+  "vimMode": true,
   "spellcheck": true,
   "showLineNumber": true,
   "newFileLocation": "root",
   "attachmentFolderPath": "储物箱",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "useMarkdownLinks": true
 }

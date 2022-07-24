@@ -8,15 +8,15 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#正则表达式",
+      "query": "path:正则表达式",
       "color": {
         "a": 1,
-        "rgb": 14745855
+        "rgb": 14048348
       }
     }
   ],
   "collapse-display": true,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
