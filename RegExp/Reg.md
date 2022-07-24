@@ -5,8 +5,10 @@ tag: 正则表达式
 ---
 # 正则表达式
 
-+ 掌握基础知识[[-ExpressionString]]
-+ 掌握 [[-Logic]]
-+ 掌握[[-QuantityControl]]
-+ 掌握[[-Groups]]
-+ 掌握[[-BoundaryAssertions]]
++ [x] 掌握基础知识[[-ExpressionString]]
++ [x] 掌握 [[-Logic]]
++ [x] 掌握[[-QuantityControl]]
++ [x] 掌握[[-Groups]]
++ [x] 掌握[[-BoundaryAssertions]]
+
+掌握顺序可根据以上todo

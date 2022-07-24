@@ -7,5 +7,5 @@
   "attachmentFolderPath": "储物箱",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": false
 }
