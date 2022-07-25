@@ -55,7 +55,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1.200165301609878,
+                      "scale": 0.9441776987830527,
                       "close": true
                     }
                   }
@@ -189,7 +189,7 @@
     "width": 318.5,
     "collapsed": true
   },
-  "active": "27bd8748a89fab1f",
+  "active": "324eb1cbbfba3ed9",
   "lastOpenFiles": [
     "RegExp/-ExpressionString.md",
     "RegExp/-BoundaryAssertions.md",
