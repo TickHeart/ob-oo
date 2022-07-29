@@ -10,11 +10,11 @@
           {
             "id": "27bd8748a89fab1f",
             "type": "leaf",
-            "dimension": 71.9441210710128,
+            "dimension": 74.44146559428061,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RegExp/-BoundaryAssertions.md",
+                "file": "Vite/Vite-Config_loadConfigFormFile.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,7 +24,7 @@
           {
             "id": "5039372ba32653b4",
             "type": "split",
-            "dimension": 28.055878928987195,
+            "dimension": 25.558534405719392,
             "children": [
               {
                 "id": "324eb1cbbfba3ed9",
@@ -32,9 +32,9 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "RegExp/-BoundaryAssertions.md",
+                    "file": "Vite/Vite-Config_loadConfigFormFile.md",
                     "options": {
-                      "collapse-filter": false,
+                      "collapse-filter": true,
                       "search": "",
                       "localJumps": 2,
                       "localBacklinks": true,
@@ -43,8 +43,23 @@
                       "showTags": false,
                       "showAttachments": false,
                       "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "file:vite",
+                          "color": {
+                            "a": 1,
+                            "rgb": 53498
+                          }
+                        },
+                        {
+                          "query": "file:node",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14701138
+                          }
+                        }
+                      ],
                       "collapse-display": true,
                       "showArrow": false,
                       "textFadeMultiplier": 0,
@@ -55,7 +70,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 0.9441776987830527,
+                      "scale": 1,
                       "close": true
                     }
                   }
@@ -68,7 +83,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "RegExp/-BoundaryAssertions.md",
+                    "file": "Vite/Vite-Config_loadConfigFormFile.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -80,7 +95,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "RegExp/-BoundaryAssertions.md",
+                    "file": "Vite/Vite-Config_loadConfigFormFile.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -138,6 +153,16 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c073b1c3d27d5c73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vite/Vite-Config_loadConfigFormFile.md"
+              }
+            }
           }
         ]
       }
@@ -171,35 +196,26 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "c073b1c3d27d5c73",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "RegExp/-BoundaryAssertions.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 318.5,
     "collapsed": true
   },
-  "active": "324eb1cbbfba3ed9",
+  "active": "27bd8748a89fab1f",
   "lastOpenFiles": [
-    "RegExp/-ExpressionString.md",
-    "RegExp/-BoundaryAssertions.md",
-    "RegExp/-QuantityControl.md",
-    "RegExp/-Logic.md",
+    "node/node-perf_hooks.md",
+    "Vite/Vite-Config_loadConfigFormFile.md",
+    "Vite/vite-Config_resolveConfig.md",
+    "Vite/Vite-Config_mergeConfig.md",
+    "Vite/VIte-Cli.md",
+    "Vite/Vite-Server_createServer.md",
     "RegExp/-RegExpImage.md",
-    "RegExp/Reg.md",
+    "Resume/Resume.md",
     "RegExp/-Groups.md",
-    "文章/埋点性能监控/性能监控.md",
-    "Templates/time.md",
-    "储物箱/Pasted image 20220721084908.png"
+    "RegExp/-ExpressionString.md"
   ]
 }

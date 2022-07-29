@@ -1,11 +1,17 @@
 {
   "livePreview": true,
-  "vimMode": true,
+  "vimMode": false,
   "spellcheck": false,
   "showLineNumber": true,
   "newFileLocation": "root",
   "attachmentFolderPath": "储物箱",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": true,
+    "margin": "2",
+    "downscalePercent": 100
+  }
 }
