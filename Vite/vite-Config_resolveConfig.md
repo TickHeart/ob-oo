@@ -38,7 +38,7 @@ const configEnv = {
 }
 ```
 
-5. 判断是否 `config` 中是否有用户指定的配置文件的路径，如果“等于 `undefind`”在则去执行 `loadConfigFromFile` 方法获取。并且判断配置是否获取成功，成功后执行 `mergeConfig` 方法将 `cli` 传递的配置和用户书写的配置进行合并。
+5. 判断是否 `config` 中是否有用户指定的配置文件的路径，如果“等于 `undefind`或者 `string`”则去执行 `loadConfigFromFile` 方法获取。并且判断配置是否获取成功，成功后执行 `mergeConfig` 方法将 `cli` 传递的配置和用户书写的配置进行合并。
 ==提示==：undefind不等于false，成立
 ```ts
 let { configFile } = config

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vite/Vite-Config_loadConfigFormFile.md",
+                "file": "Vite/VIte-Cli.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Vite/Vite-Config_loadConfigFormFile.md",
+                    "file": "Vite/VIte-Cli.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -83,7 +83,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Vite/Vite-Config_loadConfigFormFile.md",
+                    "file": "Vite/VIte-Cli.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -95,7 +95,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Vite/Vite-Config_loadConfigFormFile.md",
+                    "file": "Vite/VIte-Cli.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vite/Vite-Config_loadConfigFormFile.md"
+                "file": "Vite/VIte-Cli.md"
               }
             }
           }
@@ -207,12 +207,12 @@
   },
   "active": "27bd8748a89fab1f",
   "lastOpenFiles": [
-    "node/node-perf_hooks.md",
     "Vite/Vite-Config_loadConfigFormFile.md",
     "Vite/vite-Config_resolveConfig.md",
-    "Vite/Vite-Config_mergeConfig.md",
-    "Vite/VIte-Cli.md",
     "Vite/Vite-Server_createServer.md",
+    "Vite/VIte-Cli.md",
+    "node/node-perf_hooks.md",
+    "Vite/Vite-Config_mergeConfig.md",
     "RegExp/-RegExpImage.md",
     "Resume/Resume.md",
     "RegExp/-Groups.md",
