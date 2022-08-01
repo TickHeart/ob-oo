@@ -9,7 +9,7 @@
 
 ## 流程
 
-1. 记录 `loadConfigFromFile` 方法开始的时间，并且声明 getTime 函数来计算 `loadConfigFromFile` 方法内区域的执行时长，同时还要声明下文保存下文找到的配置文件的路径 `resolvedPath` 变量
+1. 记录 `loadConfigFromFile` 方法开始的时间，并且声明 `getTime` 函数来计算 `loadConfigFromFile` 方法内区域的执行时长，同时还要声明下文保存下文找到的配置文件的路径 `resolvedPath` 变量
 ==提示==：[[node-perf_hooks#performance now]]
 ```ts
 const start = performance.now()
@@ -49,3 +49,25 @@ if (!resolvedPath) {
 }
 ```
 
+4. 判断当前黄精是否是 `ESM` ，首先根据配置文件的后缀名进行判断，判断其是否有 `mjs` 或者 `mts` 的标识，如果文件名的后缀不存在时就去判断当前项目的 `package.josn` 中的 `type` 是什么模式
+```ts
+let isESM = false
+if (/\.m[jt]s$/.test(resolvedPath)) {
+	isESM = true
+} else if (/\.c[jt]s$/.test(resolvedPath)) {
+	isESM = false
+} else {
+// check package.json for type: "module" and set `isESM` to true
+try {
+	const pkg = lookupFile(configRoot, ['package.json'])
+		isESM = !!pkg && JSON.parse(pkg).type === 'module'
+	} catch (e) {}
+}
+```
+[[Vite-utils_lookupFile]]
+
+5. 使用 esbuild 捆绑配置文件，将vite的config文件进行编译，编译过程中插入两个插件，其中一个插件的作用是确保在 monorepo 模式中正确的获取依赖项目，第二个插件则是在 vite 配置文件中注入全局变量，函数的结果是返回 vite config 中所需要的依赖和编译后的代码。
+```ts
+const bundled = await bundleConfigFile(resolvedPath, isESM)
+```
+[[Vite-config_bundleConfigFile]]

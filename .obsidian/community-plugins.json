@@ -1,7 +1,6 @@
 [
   "table-editor-obsidian",
   "dataview",
-  "templater-obsidian",
   "obsidian-admonition",
   "obsidian-day-planner",
   "mx-bili-plugin",
@@ -9,5 +8,6 @@
   "workspaces-plus",
   "obsidian-git",
   "obsidian-excalidraw-plugin",
-  "darlal-switcher-plus"
+  "darlal-switcher-plus",
+  "templater-obsidian"
 ]
