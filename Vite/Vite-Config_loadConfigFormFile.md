@@ -49,7 +49,7 @@ if (!resolvedPath) {
 }
 ```
 
-4. 判断当前黄精是否是 `ESM` ，首先根据配置文件的后缀名进行判断，判断其是否有 `mjs` 或者 `mts` 的标识，如果文件名的后缀不存在时就去判断当前项目的 `package.josn` 中的 `type` 是什么模式
+4. 判断当前环境是否是 `ESM` ，首先根据配置文件的后缀名进行判断，判断其是否有 `mjs` 或者 `mts` 的标识，如果文件名的后缀不存在时就去判断当前项目的 `package.josn` 中的 `type` 是什么模式
 ```ts
 let isESM = false
 if (/\.m[jt]s$/.test(resolvedPath)) {

@@ -10,17 +10,21 @@
           {
             "id": "27bd8748a89fab1f",
             "type": "leaf",
-            "dimension": 56.18181818181818,
+            "dimension": 71.9441210710128,
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mac/Compression.md",
+                "mode": "preview",
+                "source": true
+              }
             },
             "group": "4dd5d37327233827"
           },
           {
             "id": "5039372ba32653b4",
             "type": "split",
-            "dimension": 43.81818181818182,
+            "dimension": 28.055878928987195,
             "children": [
               {
                 "id": "324eb1cbbfba3ed9",
@@ -28,9 +32,9 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Vite/Vite-Config_loadConfigFormFile.md",
+                    "file": "Mac/Compression.md",
                     "options": {
-                      "collapse-filter": false,
+                      "collapse-filter": true,
                       "search": "",
                       "localJumps": 2,
                       "localBacklinks": true,
@@ -51,7 +55,7 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1,
+                      "scale": 0.5709070601578474,
                       "close": true
                     }
                   }
@@ -64,6 +68,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
+                    "file": "Mac/Compression.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -75,6 +80,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "Mac/Compression.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -171,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mac/Compression.md"
+              }
             }
           }
         ]
@@ -183,15 +191,15 @@
   },
   "active": "27bd8748a89fab1f",
   "lastOpenFiles": [
-    "Vite/Vite-Config_loadConfigFormFile.md",
-    "Vite/Vite-Server_createServer.md",
-    "Vite/Vite-utils_lookupFile.md",
-    "Vite/Vite-config_bundleConfigFile.md",
-    "Vite/vite-Config_resolveConfig.md",
+    "RegExp/-Logic.md",
     "RegExp/-RegExpImage.md",
-    "Templates/time-tag.md",
-    "CodeTest/aa.md",
-    "Templates/time.md",
-    "CodeTest/const.md"
+    "RegExp/-ExpressionString.md",
+    "Day Planners/Day Planner-20220816.md",
+    "Day Planners/Day Planner-20220809.md",
+    "Docker/Docker.md",
+    "Docker/Docker-Img.md",
+    "Day Planners/Day Planner-20220719.md",
+    "RegExp/Reg.md",
+    "RegExp/-Groups.md"
   ]
 }
