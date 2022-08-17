@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mac/Compression.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": true
               }
             },
@@ -32,7 +32,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Mac/Compression.md",
+                    "file": "README.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -68,7 +68,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Mac/Compression.md",
+                    "file": "README.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -80,7 +80,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Mac/Compression.md",
+                    "file": "README.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mac/Compression.md"
+                "file": "README.md"
               }
             }
           }
@@ -191,6 +191,7 @@
   },
   "active": "27bd8748a89fab1f",
   "lastOpenFiles": [
+    "Mac/Compression.md",
     "RegExp/-Logic.md",
     "RegExp/-RegExpImage.md",
     "RegExp/-ExpressionString.md",
@@ -199,7 +200,6 @@
     "Docker/Docker.md",
     "Docker/Docker-Img.md",
     "Day Planners/Day Planner-20220719.md",
-    "RegExp/Reg.md",
-    "RegExp/-Groups.md"
+    "RegExp/Reg.md"
   ]
 }
