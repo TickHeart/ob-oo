@@ -1,6 +1,6 @@
 {
   "livePreview": true,
-  "vimMode": true,
+  "vimMode": false,
   "spellcheck": false,
   "showLineNumber": true,
   "newFileLocation": "root",

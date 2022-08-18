@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#正则表达式",
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 13895933
       }
+    },
+    {
+      "query": "file:Vite",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": true,
@@ -47,5 +54,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.781542345958539,
-  "close": false
+  "close": true
 }
